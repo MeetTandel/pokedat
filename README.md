@@ -6,7 +6,7 @@ Pokedat is an application built using typescript to get the check the list of po
 
 ## Application Links
 
-Deployed URL ->
+Deployed URL -> [https://pokedat.netlify.app/](https://pokedat.netlify.app/)
 
 ## Tech Stack
 

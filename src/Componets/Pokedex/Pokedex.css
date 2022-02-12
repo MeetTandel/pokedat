@@ -12,6 +12,7 @@
 .pokelist-container {
   width: 300px;
   overflow-y: scroll;
+  overflow-x: hidden;
   background-color: #64b1bb;
   height: 455px;
   margin: 10px;
