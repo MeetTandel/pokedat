@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+body {
+  background-color: #dbf6e9;
+  color: #162447;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+  text-align: center;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: hidden;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pokemon-logo {
+  margin: 1rem;
+}
+.text-capitalise {
+  text-transform: capitalize;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3b5aa6;
+  border-radius: 20px;
+  border: 3px solid transparent;
+}
